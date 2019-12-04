@@ -1,3 +1,4 @@
 # sugar
 Either outstanding or out
-this is a test;
+这是一个测验;
+可以将这些东西提交了
